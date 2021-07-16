@@ -7,7 +7,7 @@
 Currently, we think that from a UX-perspective, BitBadges can be a complementary integration to the TNB ecosystem. We are working on renovating our frontend and want to build interplorability w/ TNB as one of our options.
 
 #### Who is the target market?
-ANSWER HERE
+We are targeting not just TNB users and everybody using BitBadges, but the entire crypto ecosystem. Badges are utilized for a variety of usecases and even digital certifications or e-learning.
 
 #### What do you think is the opportunity of this project?
 ANSWER HERE
