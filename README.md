@@ -4,7 +4,7 @@
 [BitBadges](https://bitbadges.github.io) is a NFT issuing platform that has first targeted BitClout. They are working on various integrations of badge issuing solutions as NFTs across various blockchains. Currently, BitBadges is looking to integrate TNB compatibility. TNB has various ways badges can be earned, including task based systems and developer integrations. Also, TNB is a high speed cryptocurrency and has potential beyond just a blockchain for devs. With the transaction speeds that TNB offers as well as the BitBadges issuing capabilities, we think this can be a decent multichain or sidechain solution.
 
 #### What problem does it solve?
-ANSWER HERE
+Currently, we think that from a UX-perspective, BitBadges can be a complementary feature to the TNB ecosystem. We are working on renovating our frontend and want to build interplorability w/ TNB as one of our options.
 
 #### Who is the target market?
 ANSWER HERE
