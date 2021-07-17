@@ -10,7 +10,7 @@ Currently, we think that from a UX-perspective, BitBadges can be a complementary
 We are targeting not just TNB users and everybody using BitBadges, but the entire crypto ecosystem. Badges are utilized for a variety of usecases and even digital certifications or e-learning.
 
 #### What do you think is the opportunity of this project?
-ANSWER HERE
+There are a series of usecases centered around BitBadges and its many possible different integrations. These include
 
 #### How does it integrate with thenewboston digital currency work?
 ANSWER HERE
