@@ -22,7 +22,7 @@ Currently, we aren't aware of any major competitors on the TNB blockchain.
 BitBadges is focused on being interplorable and expansion. We believe that we can create a badge solution accross a variety of different blockchains and networks. Currently, the TNB ecosystem looks promising to us.
 
 #### How will you evaluate project success?
-ANSWER HERE
+BitBadges believes they have a great usecase, that said ...
 
 
 **By posting this issue, I (author of this issue) allow my project idea to be used by other people for any commercial as well as non-commercial purposes and I'll not be liable for misuse of my idea.**
