@@ -19,7 +19,7 @@ BitBadges is interplorable and wants to be able to issue badges on top of TNB as
 Currently, we aren't aware of any major competitors on the TNB blockchain.
 
 #### What are your goals and objectives?
-ANSWER HERE
+BitBadges is focused on being interplorable and expansion. We believe that we can create a badge solution accross a variety of different blockchains and networks. Currently, the TNB ecosystem looks promising to us.
 
 #### How will you evaluate project success?
 ANSWER HERE
