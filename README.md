@@ -13,7 +13,7 @@ We are targeting not just TNB users and everybody using BitBadges, but the entir
 There are a series of usecases centered around BitBadges and its many possible different integrations. These include e-learning badges and certification systems, events and ticketing, brand badges, and many others.
 
 #### How does it integrate with thenewboston digital currency work?
-ANSWER HERE
+BitBadges is interplorable and wants to be able to issue badges on top of TNB as one of its supported platforms.
 
 #### Are there any competitors?
 ANSWER HERE
