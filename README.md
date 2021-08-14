@@ -16,7 +16,7 @@ There are a series of usecases centered around BitBadges and its many possible d
 BitBadges is interplorable and wants to be able to issue badges on top of TNB as one of its supported platforms.
 
 #### Are there any competitors?
-ANSWER HERE
+Currently, we aren't aware of any major competitors on the TNB blockchain.
 
 #### What are your goals and objectives?
 ANSWER HERE
